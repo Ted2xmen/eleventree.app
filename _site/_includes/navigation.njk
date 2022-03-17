@@ -1,0 +1,9 @@
+<ul class="text-center py-2 text-lg">
+	{%- for item in collections.pages -%}
+		{% if page.url != item.url %}
+		<li>
+			<a href="{{ item.url }}">{{ item.data.buttonTitle }}</a>
+		</li>
+		{% endif %}
+	{%- endfor -%}
+</ul>

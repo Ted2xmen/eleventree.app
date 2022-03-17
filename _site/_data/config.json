@@ -1,0 +1,90 @@
+{
+  "siteTitle": "Eleventyree - Linktree Alternative",
+  "projectTitle": "Eleventyree - for Developers",
+  "fullname": "Tuğrul Erdem Dogru",
+  "url": "https://example.com",
+  "description": "Eleventy with TailwindCSS",
+  "keywords": "eleventy, 11ty, tailwind, link gallery",
+  "image": "https://www.11ty.dev/img/built/IdthKOzqFA-350.avif",
+  "twitter": "@ted2xmen",
+  "card": "summary",
+  "currently" : "building: Eleventyree, learning: Nextjs",
+  "stack": ["React", "NextJS", "Tailwind", "Firebase"],
+  "tools": [
+    "Visual Studio",
+    "Microsoft TODO",
+    "Bear",
+    "Firefox"
+  ],
+  "social": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/tugrulerdemd",
+      "icon": "fa-twitter",
+      "slug": "tugrulerdemd",
+      "desc": ""
+    },
+    {
+      "name": "Codepen",
+      "url": "https://codepen.io/ted2xmen",
+      "icon": "fa-codepen",
+      "slug": "Ted2xmen",
+      "desc": ""
+    },
+    {
+      "name": "Linkedin",
+      "url": "https://www.linkedin.com/in/tugrulerdemdogru",
+      "icon": "fa-linkedin",
+      "slug": "tugrulerdemdogru",
+      "desc": ""
+    },
+    {
+      "name": "Github",
+      "url": "https://github.com/Ted2xmen",
+      "icon": "fa-github",
+      "slug": "ted2xmen",
+      "desc": ""
+    },
+    {
+      "name": "Behance",
+      "url": "https://www.linkedin.com/in/tugrulerdemdogru",
+      "icon": "fa-behance",
+      "slug": "ted2xmen",
+      "desc": ""
+    },
+    {
+      "name": "Medium",
+      "url": "https://github.com/Ted2xmen",
+      "icon": "fa-medium",
+      "slug": "ted2xmen",
+      "desc": "Blog yazılarım"
+    }
+  ],
+    "projects": [
+    {
+      "name": "Linktree Alternative",
+      "preview": "https://twitter.com/tugrulerdemd",
+      "repository": "",
+      "last": "ted2xmen/lastfm-scraper",
+      "tech": "React, Firebase",
+      "icon": "fa-twitter",
+      "description": "An Alternative for Developers"
+    },
+       {
+      "name": "Github Finder",
+      "preview": "https://twitter.com/tugrulerdemd",
+      "repository": "",
+      "tech": "React, Firebase",
+      "icon": "fa-twitter",
+      "description": "An Alternative for Developers"
+    },
+    {
+      "name": "Covid Tracker",
+      "preview": "https://twitter.com/tugrulerdemd",
+      "repository": "",
+      "tech": "Vue 3, Bootstrap",
+      "icon": "fa-twitter",
+      "description": "An Alternative for Developers"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+<div class="grid grid-flow-col items-center justify-center">{% for item in config.social  %}
+    <div class="p-4">
+        <a href="{{item.url}}"
+            target="_blank"
+            rel="noopener noreferrer"
+            class=" no-underline   border-gray-700 rounded-lg hover:border-green-600">           
+                <i class="text-2xl hover:text-green-600 fa-brands {{item.icon}}"></i>
+        </a>
+    </div> {% endfor %}
+</div>
