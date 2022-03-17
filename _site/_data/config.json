@@ -1,21 +1,15 @@
 {
-  "siteTitle": "Eleventyree - Linktree Alternative",
-  "projectTitle": "Eleventyree - for Developers",
+  "siteTitle": "Eleventyree",
+  "projectTitle": "PROJECTS",
   "fullname": "Tuğrul Erdem Dogru",
   "url": "https://example.com",
+  "github": "",
   "description": "Eleventy with TailwindCSS",
   "keywords": "eleventy, 11ty, tailwind, link gallery",
   "image": "https://www.11ty.dev/img/built/IdthKOzqFA-350.avif",
-  "twitter": "@ted2xmen",
-  "card": "summary",
-  "currently" : "building: Eleventyree, learning: Nextjs",
+  "now": "building Eleventyree, learning: Nextjs",
   "stack": ["React", "NextJS", "Tailwind", "Firebase"],
-  "tools": [
-    "Visual Studio",
-    "Microsoft TODO",
-    "Bear",
-    "Firefox"
-  ],
+  "tools": ["Visual Studio Code", "Microsoft Todo", "Postman", "Firefox"],
   "social": [
     {
       "name": "Twitter",
@@ -51,16 +45,9 @@
       "icon": "fa-behance",
       "slug": "ted2xmen",
       "desc": ""
-    },
-    {
-      "name": "Medium",
-      "url": "https://github.com/Ted2xmen",
-      "icon": "fa-medium",
-      "slug": "ted2xmen",
-      "desc": "Blog yazılarım"
     }
   ],
-    "projects": [
+  "projects": [
     {
       "name": "Linktree Alternative",
       "preview": "https://twitter.com/tugrulerdemd",
@@ -70,10 +57,11 @@
       "icon": "fa-twitter",
       "description": "An Alternative for Developers"
     },
-       {
+    {
       "name": "Github Finder",
       "preview": "https://twitter.com/tugrulerdemd",
       "repository": "",
+      "last": "ted2xmen/covid-19-tracker",
       "tech": "React, Firebase",
       "icon": "fa-twitter",
       "description": "An Alternative for Developers"
@@ -85,6 +73,32 @@
       "tech": "Vue 3, Bootstrap",
       "icon": "fa-twitter",
       "description": "An Alternative for Developers"
+    }
+  ],
+  "homelinks": [
+    {
+      "name": "React Redux Toolkit Crash Course 2022",
+      "url": "https://twitter.com/tugrulerdemd",
+      "category": "video",
+      "tag": "React, Firebase",
+      "icon": "fa-circle-play",
+      "description": "An Alternative for Developers"
+    },
+    {
+      "name": "Vue 3 CLI Projelerinde Port Adresi Değiştirme",
+      "url": "https://twitter.com/tugrulerdemd",
+      "category": "blog",
+      "tag": "React, Firebase",
+      "icon": "fa-glasses",
+      "description": "An Alternative for Developers"
+    },
+    {
+      "name": "Hyper UI",
+      "url": "https://twitter.com/tugrulerdemd",
+      "category": "bookmark",
+      "tag": "React, Firebase",
+      "icon": "fa-bookmark",
+      "description": "Free Open Source Tailwind CSS Components"
     }
   ]
 }
