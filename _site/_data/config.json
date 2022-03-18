@@ -3,7 +3,7 @@
   "projectTitle": "PROJECTS",
   "fullname": "Tuğrul Erdem Dogru",
   "url": "https://example.com",
-  "github": "",
+  "github": "ssss",
   "description": "Eleventy with TailwindCSS",
   "keywords": "eleventy, 11ty, tailwind, link gallery",
   "image": "https://www.11ty.dev/img/built/IdthKOzqFA-350.avif",
@@ -49,12 +49,11 @@
   ],
   "projects": [
     {
-      "name": "Linktree Alternative",
+      "name": "Eleventyree",
       "preview": "https://twitter.com/tugrulerdemd",
       "repository": "",
       "last": "ted2xmen/lastfm-scraper",
-      "tech": "React, Firebase",
-      "icon": "fa-twitter",
+      "tech": "Eleventy, TailwindCSS",
       "description": "An Alternative for Developers"
     },
     {
@@ -63,7 +62,6 @@
       "repository": "",
       "last": "ted2xmen/covid-19-tracker",
       "tech": "React, Firebase",
-      "icon": "fa-twitter",
       "description": "An Alternative for Developers"
     },
     {
@@ -71,9 +69,15 @@
       "preview": "https://twitter.com/tugrulerdemd",
       "repository": "",
       "tech": "Vue 3, Bootstrap",
-      "icon": "fa-twitter",
       "description": "An Alternative for Developers"
-    }
+    },
+      {
+        "name": "Personal Blog",
+        "preview": "https://twitter.com/tugrulerdemd",
+        "repository": "",
+        "tech": "Next JS, TailwindCSS",
+        "description": "An Alternative for Developers"
+      }
   ],
   "homelinks": [
     {
@@ -90,7 +94,7 @@
       "category": "blog",
       "tag": "React, Firebase",
       "icon": "fa-glasses",
-      "description": "An Alternative for Developers"
+      "description": "Vue cli ile oluşturduğunuz projeler npm run serve komutu ile ..."
     },
     {
       "name": "Hyper UI",
