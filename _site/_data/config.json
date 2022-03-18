@@ -4,10 +4,12 @@
   "fullname": "Tuğrul Erdem Dogru",
   "url": "https://example.com",
   "github": "ssss",
+  "blog": "https://ted2xmennew.vercel.app/",
+  "cv": "",
   "description": "Eleventy with TailwindCSS",
   "keywords": "eleventy, 11ty, tailwind, link gallery",
   "image": "https://www.11ty.dev/img/built/IdthKOzqFA-350.avif",
-  "now": "building Eleventyree, learning: Nextjs",
+  "now": "building Eleventyree, learning: Nextjs, watching: Snowpiercer",
   "stack": ["React", "NextJS", "Tailwind", "Firebase"],
   "tools": ["Visual Studio Code", "Microsoft Todo", "Postman", "Firefox"],
   "social": [
@@ -71,13 +73,13 @@
       "tech": "Vue 3, Bootstrap",
       "description": "An Alternative for Developers"
     },
-      {
-        "name": "Personal Blog",
-        "preview": "https://twitter.com/tugrulerdemd",
-        "repository": "",
-        "tech": "Next JS, TailwindCSS",
-        "description": "An Alternative for Developers"
-      }
+    {
+      "name": "Personal Blog",
+      "preview": "https://twitter.com/tugrulerdemd",
+      "repository": "",
+      "tech": "Next JS, TailwindCSS",
+      "description": "An Alternative for Developers"
+    }
   ],
   "homelinks": [
     {
@@ -103,6 +105,14 @@
       "tag": "React, Firebase",
       "icon": "fa-bookmark",
       "description": "Free Open Source Tailwind CSS Components"
+    },
+    {
+      "name": "Bear: Bir Not Alma Uygulaması",
+      "url": "https://twitter.com/tugrulerdemd",
+      "category": "blog",
+      "tag": "React, Firebase",
+      "icon": "fa-glasses",
+      "description": "Bear, tasarım olarak evernote'a benzeyen bir ..."
     }
   ]
 }
