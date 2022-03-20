@@ -1,0 +1,36 @@
+{
+  "projects": [
+    {
+      "name": "Eleventyree",
+      "preview": "https://twitter.com/tugrulerdemd",
+      "repository": "",
+      "last": "ted2xmen/lastfm-scraper",
+      "tech": "Eleventy, TailwindCSS",
+      "description": "An Alternative for Developers An Alternative for Developers An Alternative for Developers An Alternative for Developers An Alternative for Developers An Alternative for Developers An Alternative for Developers An Alternative for Developers"
+    },
+    {
+      "name": "Github Finder 2022",
+      "preview": "https://twitter.com/tugrulerdemd",
+      "repository": "",
+      "last": "ted2xmen/covid-19-tracker",
+      "tech": "React, Firebase",
+      "description": "An Alternative for Developers"
+    },
+    {
+      "name": "Covid Tracker",
+      "preview": "https://twitter.com/tugrulerdemd",
+      "last": "ted2xmen/covid-19-tracker",
+      "repository": "",
+      "tech": "Vue 3, Bootstrap",
+      "description": "An Alternative for Developers"
+    },
+    {
+      "name": "Personal Blog",
+      "preview": "https://twitter.com/tugrulerdemd",
+      "last": "ted2xmen/covid-19-tracker",
+      "repository": "",
+      "tech": "Next JS, TailwindCSS",
+      "description": "An Alternative for Developers"
+    }
+  ]
+}

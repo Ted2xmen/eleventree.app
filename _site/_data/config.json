@@ -1,118 +1,31 @@
 {
-  "siteTitle": "Eleventyree",
-  "projectTitle": "PROJECTS",
-  "fullname": "Tuğrul Erdem Dogru",
-  "url": "https://example.com",
-  "github": "ssss",
-  "blog": "https://ted2xmennew.vercel.app/",
-  "cv": "",
-  "description": "Eleventy with TailwindCSS",
-  "keywords": "eleventy, 11ty, tailwind, link gallery",
-  "image": "https://www.11ty.dev/img/built/IdthKOzqFA-350.avif",
-  "now": "building Eleventyree, learning: Nextjs, watching: Snowpiercer",
-  "stack": ["React", "NextJS", "Tailwind", "Firebase"],
-  "tools": ["Visual Studio Code", "Microsoft Todo", "Postman", "Firefox"],
-  "social": [
+  "site": [
     {
-      "name": "Twitter",
-      "url": "https://twitter.com/tugrulerdemd",
-      "icon": "fa-twitter",
-      "slug": "tugrulerdemd",
-      "desc": ""
-    },
-    {
-      "name": "Codepen",
-      "url": "https://codepen.io/ted2xmen",
-      "icon": "fa-codepen",
-      "slug": "Ted2xmen",
-      "desc": ""
-    },
-    {
-      "name": "Linkedin",
-      "url": "https://www.linkedin.com/in/tugrulerdemdogru",
-      "icon": "fa-linkedin",
-      "slug": "tugrulerdemdogru",
-      "desc": ""
-    },
-    {
-      "name": "Github",
-      "url": "https://github.com/Ted2xmen",
-      "icon": "fa-github",
-      "slug": "ted2xmen",
-      "desc": ""
-    },
-    {
-      "name": "Behance",
-      "url": "https://www.linkedin.com/in/tugrulerdemdogru",
-      "icon": "fa-behance",
-      "slug": "ted2xmen",
-      "desc": ""
+      "homeTitle": "Eleventyree - personal link gallery",
+      "projectTitle": "PROJECTS",
+      "url": "",
+      "description": "Eleventy with TailwindCSS",
+      "keywords": "eleventy, 11ty, tailwind, link gallery",
+      "repository": "https://github.com/Ted2xmen",
+      "image": "https://www.11ty.dev/img/built/IdthKOzqFA-350.avif",
+      "card": ""
     }
   ],
-  "projects": [
+
+  "personal": [
     {
-      "name": "Eleventyree",
-      "preview": "https://twitter.com/tugrulerdemd",
-      "repository": "",
-      "last": "ted2xmen/lastfm-scraper",
-      "tech": "Eleventy, TailwindCSS",
-      "description": "An Alternative for Developers"
-    },
-    {
-      "name": "Github Finder",
-      "preview": "https://twitter.com/tugrulerdemd",
-      "repository": "",
-      "last": "ted2xmen/covid-19-tracker",
-      "tech": "React, Firebase",
-      "description": "An Alternative for Developers"
-    },
-    {
-      "name": "Covid Tracker",
-      "preview": "https://twitter.com/tugrulerdemd",
-      "repository": "",
-      "tech": "Vue 3, Bootstrap",
-      "description": "An Alternative for Developers"
-    },
-    {
-      "name": "Personal Blog",
-      "preview": "https://twitter.com/tugrulerdemd",
-      "repository": "",
-      "tech": "Next JS, TailwindCSS",
-      "description": "An Alternative for Developers"
-    }
-  ],
-  "homelinks": [
-    {
-      "name": "React Redux Toolkit Crash Course 2022",
-      "url": "https://twitter.com/tugrulerdemd",
-      "category": "video",
-      "tag": "React, Firebase",
-      "icon": "fa-circle-play",
-      "description": "An Alternative for Developers"
-    },
-    {
-      "name": "Vue 3 CLI Projelerinde Port Adresi Değiştirme",
-      "url": "https://twitter.com/tugrulerdemd",
-      "category": "blog",
-      "tag": "React, Firebase",
-      "icon": "fa-glasses",
-      "description": "Vue cli ile oluşturduğunuz projeler npm run serve komutu ile ..."
-    },
-    {
-      "name": "Hyper UI",
-      "url": "https://twitter.com/tugrulerdemd",
-      "category": "bookmark",
-      "tag": "React, Firebase",
-      "icon": "fa-bookmark",
-      "description": "Free Open Source Tailwind CSS Components"
-    },
-    {
-      "name": "Bear: Bir Not Alma Uygulaması",
-      "url": "https://twitter.com/tugrulerdemd",
-      "category": "blog",
-      "tag": "React, Firebase",
-      "icon": "fa-glasses",
-      "description": "Bear, tasarım olarak evernote'a benzeyen bir ..."
+      "fullname": "Tuğrul Erdem Dogru",
+      "bio": "Sed non nibh iaculis, posuere diam vitae, consectetur neque. Integer velit ligula, semper sed nisl in, cursus commodo elit. Pellentesque sit amet mi luctus ligula euismod lobortis ultricies et nibh. Sed non nibh iaculis, posuere diam vitae, consectetur neque. Integer velit ligula, semper sed nisl in, cursus commodo elit. Pellentesque sit amet mi luctus ligula euismod lobortis ultricies et nibh. Sed non nibh iaculis, posuere diam vitae, consectetur neque. Integer velit ligula, semper sed nisl in, cursus commodo elit. Pellentesque sit amet mi luctus ligula euismod lobortis ultricies et nibh.",
+      "twitter": "ted2xmen",
+      "hireable": true,
+      "work": "freelancer",
+      "github": "https://github.com/Ted2xmen",
+      "cv": "www.google.com",
+      "blog": "https://ted2xmennew.vercel.app/",
+      "avatar": "https://avatars.githubusercontent.com/u/20682437?v=4",
+      "now": "building Eleventyree, learning: Nextjs, watching: Snowpiercer",
+      "stack": ["React", "NextJS", "Tailwind", "Firebase"],
+      "tools": ["Visual Studio Code", "Microsoft Todo", "Postman", "Firefox"]
     }
   ]
 }

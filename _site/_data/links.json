@@ -1,0 +1,52 @@
+{
+  "homelinks": [
+    {
+      "name": "React Redux Toolkit Crash Course 2022",
+      "url": "https://twitter.com/tugrulerdemd",
+      "category": "video",
+      "tag": "React, Firebase",
+      "icon": "fa-circle-play",
+      "description": "An Alternative for Developers An Alternative for Developers An Alternative for DevAn Alternative for Developers An Alternative for Developers An Alternative for Developers An Alternative for Developers An Alternative for Developers"
+    },
+    {
+      "name": "Vue 4 CLI Projelerinde Port Adresi Değiştirme",
+      "url": "https://twitter.com/tugrulerdemd",
+      "category": "blog",
+      "tag": "React, Firebase",
+      "icon": "fa-glasses",
+      "description": "Vue cli ile oluşturduğunuz projeler npm run serve komutu ile ..."
+    },
+    {
+      "name": "Hyper UI",
+      "url": "https://twitter.com/tugrulerdemd",
+      "category": "bookmark",
+      "tag": "React, Firebase",
+      "icon": "fa-bookmark",
+      "description": "Free Open Source Tailwind CSS Components"
+    },
+    {
+      "name": "React Redux Toolkit Crash Course 2022",
+      "url": "https://twitter.com/tugrulerdemd",
+      "category": "video",
+      "tag": "React, Firebase",
+      "icon": "fa-circle-play",
+      "description": "An Alternative for Developers An Alternative for Developers An Alternative for DevAn Alternative for Developers An Alternative for Developers An Alternative for Developers An Alternative for Developers An Alternative for Developers"
+    },
+    {
+      "name": "Vue 4 CLI Projelerinde Port Adresi Değiştirme",
+      "url": "https://twitter.com/tugrulerdemd",
+      "category": "blog",
+      "tag": "React, Firebase",
+      "icon": "fa-glasses",
+      "description": "Vue cli ile oluşturduğunuz projeler npm run serve komutu ile ..."
+    },
+    {
+      "name": "Bear: Bir Not Alma Uygulaması",
+      "url": "https://twitter.com/tugrulerdemd",
+      "category": "blog",
+      "tag": "React, Firebase",
+      "icon": "fa-glasses",
+      "description": "Bear, tasarım olarak evernote'a benzeyen bir ..."
+    }
+  ]
+}

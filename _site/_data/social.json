@@ -1,0 +1,39 @@
+{
+  "social": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/tugrulerdemd",
+      "icon": "fa-twitter",
+      "slug": "tugrulerdemd",
+      "desc": ""
+    },
+    {
+      "name": "Codepen",
+      "url": "https://codepen.io/ted2xmen",
+      "icon": "fa-codepen",
+      "slug": "Ted2xmen",
+      "desc": ""
+    },
+    {
+      "name": "Linkedin",
+      "url": "https://www.linkedin.com/in/tugrulerdemdogru",
+      "icon": "fa-linkedin",
+      "slug": "tugrulerdemdogru",
+      "desc": ""
+    },
+    {
+      "name": "Github",
+      "url": "https://github.com/Ted2xmen",
+      "icon": "fa-github",
+      "slug": "ted2xmen",
+      "desc": ""
+    },
+    {
+      "name": "Behance",
+      "url": "https://www.linkedin.com/in/tugrulerdemdogru",
+      "icon": "fa-behance",
+      "slug": "ted2xmen",
+      "desc": ""
+    }
+  ]
+}
