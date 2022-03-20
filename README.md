@@ -1,9 +1,12 @@
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/jeremydaly/eleventy-tailwind-template)
+# Eleventree App for Developers.
 
-# Starter template for building Eleventy static sites with Tailwind CSS
+- Quick Link Gallery
+- Built with TailwindCSS and Eleventy 
 
 1. Clone the repo
 2. Run `npm install`
 3. Run `npm start`
+4. Customize  `_data /...`
 
-![Screenshot](https://user-images.githubusercontent.com/2053544/148869250-271d81fb-ea64-491a-b811-619d22ca3e25.png)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ted2xmen/eleventyree-for-developers)
+
