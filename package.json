@@ -1,7 +1,7 @@
 {
-  "name": "eleventy-tailwind-template",
+  "name": "eleventree",
   "version": "1.0.0",
-  "description": "Template for using Eleventy and Tailwind CSS",
+  "description": "Linktree Alternative",
   "scripts": {
     "start": "npm-run-all -p dev:*",
     "build": "npx @11ty/eleventy && tailwindcss -i _site/css/styles.sass -o dist/css/styles.css",
@@ -10,14 +10,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jeremydaly/eleventy-tailwind-template.git"
+    "url": "git+https://github.com/Ted2xmen/eleventree-for-developers.git"
   },
-  "author": "Jeremy Daly",
+  "author": "Ted2xmen",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/jeremydaly/eleventy-tailwind-template/issues"
-  },
-  "homepage": "https://github.com/jeremydaly/eleventy-tailwind-template#readme",
+  "homepage": "https://github.com/Ted2xmen/eleventree-for-developers",
   "devDependencies": {
     "@11ty/eleventy": "^1.0.0",
     "autoprefixer": "^10.4.0",
