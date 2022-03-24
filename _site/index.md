@@ -6,7 +6,7 @@ tags: page
 modified: 2022-01-09 00:00:00
 order: 1
 ---
-<div>
+
 <h2 class="py-4 my-4 text-3xl font-mono font-bold text-center hover:text-slate-600 text-slate-800 uppercase">
 	 <!-- {{config.title}}  -->
 </h2>
@@ -15,6 +15,6 @@ order: 1
 <strong class="p-2 m-2 text-gray-400 h-full rounded-lg block border border-green-700"> 
 	{% include "navigation.njk" %}
 </strong>	
-{% include "homelinks.njk" %}</div>
+<div>{% include "homelinks.njk" %}</div>
 
 
