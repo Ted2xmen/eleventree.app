@@ -13,8 +13,8 @@ order: 1
 	{% include "headerCard.njk" %}
 	{% include "linkRow.njk" %}
 	{% include "homelinks.njk" %}
-	<strong class="p-2 m-2 text-gray-200 h-full rounded-lg block border border-green-700"> 
+<strong class="p-2 m-2 text-gray-200 h-full rounded-lg block border border-green-700"> 
 	{% include "navigation.njk" %}
-	</strong>	
+</strong>	
 	
 

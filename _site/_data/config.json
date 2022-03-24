@@ -1,11 +1,12 @@
 {
+
   "site": [
     {
       "homeTitle": "Eleventyree - personal link gallery",
       "projectTitle": "PROJECTS",
+      "keywords": "portfolio, cv, bookmarks, personal, blog",
       "url": "",
       "description": "Eleventy with TailwindCSS",
-      "keywords": "eleventy, 11ty, tailwind, link gallery",
       "repository": "https://github.com/Ted2xmen",
       "image": "https://www.11ty.dev/img/built/IdthKOzqFA-350.avif",
       "card": ""
