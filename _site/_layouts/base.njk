@@ -1,9 +1,19 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
-  <head>    
+  <head>   
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-119405684-3"></script>
+  <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', '{{ config.ua }}');
+  </script>
+ 
     <link rel="canonical" href="{{ config.url }}{{ page.url }}">
     <link rel="stylesheet" href="/css/styles.css" />
-    <title>{% if title and title != 'Home' %}{{title}} - {% endif %}{{ config.siteTitle }}</title>
+    <title>{% if title and title != 'Home' %}{{title}} - {% endif %}{{ config.title }}</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css" integrity="sha512-10/jx2EXwxxWqCLX/hHth/vu2KY3jCF70dCQB8TSgNjbCVAC/8vai53GfMDrO2Emgwccf2pJqxct9ehpzG+MTw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <!-- Icons -->
     <link rel="shortcut icon" type="image/png" href="/images/x16-favicon.png" sizes="16x16" />
@@ -21,20 +31,17 @@
     <meta name="viewport" content="width=device-width,initial-scale=1">
 
     <!-- Facebook -->
-    <meta property="og:title" content="{% if (title != 'Home') %}{{title}} - {% endif %}{{ config.siteTitle }}">
+    <meta property="og:title" content="{% if (title != 'Home') %}{{title}} - {% endif %}{{ config.title }}">
     <meta property="og:type" content="website">
     <meta property="og:description" content="{% if description %}{{ description }}{% else %}{{ config.description }}{% endif %}">
     <meta property="og:url" content="{{ config.url }}{{ page.url }}">
     <meta property="og:image" content="{% if image %}{{ image }}{% else %}{{ config.image }}{% endif %}">
 
     <!-- Twitter -->
-    <meta name="twitter:card" content="{{ card }}">
-    <meta name="twitter:site" content="{{ twitter }}">
-    <meta name="twitter:title" content="{% if (title != 'Home') %}{{title}} - {% endif %}{{ config.siteTitle }}">
+    <meta name="twitter:title" content="{% if (title != 'Home') %}{{title}} - {% endif %}{{ config.title }}">
     <meta name="twitter:description" content="{% if description %}{{ description }}{% else %}{{ config.description }}{% endif %}">
-    <meta name="twitter:creator" content="{{ twitter }}">
-    <meta name="twitter:image" content="{{ config.url }}{{ page.url }}">
-    <meta name="twitter:domain" content="{% if image %}{{ image }}{% else %}{{ config.image }}{% endif %}">
+    <meta name="twitter:creator" content="{{ config.twitter }}">
+    <meta name="twitter:image" content="{{ config.image }}{{ page.url }}">
 
   </head>
   <body class="bg-slate-900">

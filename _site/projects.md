@@ -11,7 +11,7 @@ order: 2
 	{% include "headerCard.njk" %}
 	{% include "now.njk" %}
 		<h2 class="py-6 text-3xl font-bold text-center text-transparent  bg-clip-text bg-gradient-to-r from-green-400 via-green-600 to-slate-800 hover:bg-gradient-to-l hover:from-slate-800 hover:via-green-400 hover:to-green-400 ">
-	{{ config.site[0].projectTitle }} 
+	 		{{title}} 
 		</h2>
 	<div class="grid-cols-1">
 	{% include "projectList.njk" %}

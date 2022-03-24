@@ -1,22 +1,18 @@
 {
-
-  "site": [
-    {
-      "homeTitle": "Eleventyree - personal link gallery",
-      "projectTitle": "PROJECTS",
-      "keywords": "portfolio, cv, bookmarks, personal, blog",
-      "url": "",
-      "description": "Eleventy with TailwindCSS",
-      "repository": "https://github.com/Ted2xmen",
-      "image": "https://www.11ty.dev/img/built/IdthKOzqFA-350.avif",
-      "card": ""
-    }
-  ],
+  "title": "ELEVENTREE || Your Bookmark List",
+  "keywords": "portfolio, cv, bookmarks, personal, blog",
+  "description": "Linktree Alternative - build with Eleventy and TailwindCSS",
+  "image": "https://www.11ty.dev/img/built/IdthKOzqFA-350.avif",
+  "card": "image.gif",
+  "url": "www.eleventree.com",
+  "twitter": "https://twitter.com/Ted2xmen",
+  "ua": "",
+  "repository": "https://github.com/Ted2xmen",
 
   "personal": [
     {
       "fullname": "Tuğrul Erdem Dogru",
-      "bio": "Sed non nibh iaculis, posuere diam vitae, consectetur neque. Integer velit ligula, semper sed nisl in, cursus commodo elit. Pellentesque sit amet mi luctus ligula euismod lobortis ultricies et nibh. Sed non nibh iaculis, posuere diam vitae, consectetur neque. Integer velit ligula, semper sed nisl in, cursus commodo elit. Pellentesque sit amet mi luctus ligula euismod lobortis ultricies et nibh. Sed non nibh iaculis, posuere diam vitae, consectetur neque. Integer velit ligula, semper sed nisl in, cursus commodo elit. Pellentesque sit amet mi luctus ligula euismod lobortis ultricies et nibh.",
+      "bio": "Sed non nibh iaculis, posuere diam vitae, consectetur neque. Integer velit ligula, semper sed nisl in, cursus commodo elit. Pellentesque sit amet mi luctus ligula euismod lobortis ultricies et nibh. Sed non nibh iaculis, posuere diam vitae, consectetur neque. Integer velit li.",
       "twitter": "ted2xmen",
       "hireable": true,
       "work": "freelancer",
@@ -25,8 +21,7 @@
       "blog": "https://ted2xmennew.vercel.app/",
       "avatar": "https://avatars.githubusercontent.com/u/20682437?v=4",
       "now": "building Eleventyree, learning: Nextjs, watching: Snowpiercer",
-      "stack": ["React", "NextJS", "Tailwind", "Firebase"],
-      "tools": ["Visual Studio Code", "Microsoft Todo", "Postman", "Firefox"]
-    }
+      "stack": ["React", "NextJS", "Tailwind", "Firebase"]
+        }
   ]
 }

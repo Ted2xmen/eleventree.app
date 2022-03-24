@@ -1,20 +1,12 @@
 {
   "homelinks": [
     {
-      "name": "React Redux Toolkit Crash Course 2022",
-      "url": "https://twitter.com/tugrulerdemd",
-      "category": "video",
-      "tag": "React, Firebase",
-      "icon": "fa-circle-play",
-      "description": "An Alternative for Developers An Alternative for Developers An Alternative for DevAn Alternative for Developers An Alternative for Developers An Alternative for Developers An Alternative for Developers An Alternative for Developers"
-    },
-    {
-      "name": "Vue 4 CLI Projelerinde Port Adresi Değiştirme",
-      "url": "https://twitter.com/tugrulerdemd",
-      "category": "blog",
-      "tag": "React, Firebase",
-      "icon": "fa-glasses",
-      "description": "Vue cli ile oluşturduğunuz projeler npm run serve komutu ile ..."
+      "name": "Türkçe Redux Toolkit Notları",
+      "url": "https://github.com/Ted2xmen/turkce-redux-toolkit-notlari",
+      "category": "notes",
+      "tag": "React, Redux Toolkit",
+      "icon": "fa-bookmark",
+      "description": "Redux TK öğrenirken aldığım notlar"
     },
     {
       "name": "Hyper UI",
@@ -25,28 +17,20 @@
       "description": "Free Open Source Tailwind CSS Components"
     },
     {
-      "name": "React Redux Toolkit Crash Course 2022",
-      "url": "https://twitter.com/tugrulerdemd",
-      "category": "video",
-      "tag": "React, Firebase",
-      "icon": "fa-circle-play",
-      "description": "An Alternative for Developers An Alternative for Developers An Alternative for DevAn Alternative for Developers An Alternative for Developers An Alternative for Developers An Alternative for Developers An Alternative for Developers"
-    },
-    {
       "name": "Vue 4 CLI Projelerinde Port Adresi Değiştirme",
-      "url": "https://twitter.com/tugrulerdemd",
+      "url": "https://medium.com/@ted2xmen/vue-3-cli-projelerinde-port-adresi-de%C4%9Fi%C5%9Ftirme-71e287989b15",
       "category": "blog",
       "tag": "React, Firebase",
       "icon": "fa-glasses",
       "description": "Vue cli ile oluşturduğunuz projeler npm run serve komutu ile ..."
     },
     {
-      "name": "Bear: Bir Not Alma Uygulaması",
-      "url": "https://twitter.com/tugrulerdemd",
-      "category": "blog",
-      "tag": "React, Firebase",
+      "name": "Webpack 5 Crash Course | Frontend Development Setup",
+      "url": "https://youtu.be/IZGNcSuwBZs",
+      "category": "video",
+      "tag": "Webpack, Brad Traversy",
       "icon": "fa-glasses",
-      "description": "Bear, tasarım olarak evernote'a benzeyen bir ..."
+      "description": "In this video, we will create a Webpack dev environment from scratch including..."
     }
   ]
 }

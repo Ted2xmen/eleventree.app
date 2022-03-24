@@ -1,36 +1,60 @@
 {
   "projects": [
     {
-      "name": "Eleventyree",
+      "name": "Eleventree",
       "preview": "https://twitter.com/tugrulerdemd",
-      "repository": "",
-      "last": "ted2xmen/lastfm-scraper",
+      "repository": "https://github.com/Ted2xmen/eleventyree-for-developers",
+      "last": "ted2xmen/eleventyree-for-developers",
       "tech": "Eleventy, TailwindCSS",
-      "description": "An Alternative for Developers An Alternative for Developers An Alternative for Developers An Alternative for Developers An Alternative for Developers An Alternative for Developers An Alternative for Developers An Alternative for Developers"
+      "description": "Bookmark Gallery and Portfolio. An Alternative for Developers"
     },
     {
-      "name": "Github Finder 2022",
-      "preview": "https://twitter.com/tugrulerdemd",
-      "repository": "",
-      "last": "ted2xmen/covid-19-tracker",
-      "tech": "React, Firebase",
-      "description": "An Alternative for Developers"
+      "name": "React - Redux TK - Tailwind Starter",
+      "preview": "",
+      "repository": "https://github.com/Ted2xmen/react-reduxtk-tailwind-starter",
+      "last": "Ted2xmen/react-reduxtk-tailwind-starter",
+      "tech": "React, Redux Toolkit, TailwindCSS",
+      "description": "An Alternative for Developers An Alternative for Developers An Alternative ..."
+    },
+    {
+      "name": "Kütüphaneden",
+      "preview": "https://kutuphaneden.vercel.app/",
+      "repository": "https://github.com/Ted2xmen/kutuphaneden",
+      "last": "ted2xmen/kutuphaneden",
+      "tech": "Javascript",
+      "description": "Yazılıma Yeni Başlayanlar için Okuma Önerileri / Kaynaklar"
+    },
+    {
+      "name": "KRONIKA",
+      "preview": "https://kronika-vue2.vercel.app/#/",
+      "repository": "https://github.com/Ted2xmen/kronika-firebase",
+      "last": "ted2xmen/kronika-firebase",
+      "tech": "Vue 3, Firebase, Bootstrap",
+      "description": "Osmanlı Tarihi Kaynakları"
+    },
+    {
+      "name": "Last FM Scrapper",
+      "preview": "https://github.com/Ted2xmen/lastfm-scraper",
+      "repository": "https://github.com/Ted2xmen/lastfm-scraper",
+      "last": "ted2xmen/lastfm-scraper",
+      "tech": "NodeJS",
+      "description": "Node + Express + Cheerio Web Scrapper"
     },
     {
       "name": "Covid Tracker",
-      "preview": "https://twitter.com/tugrulerdemd",
+      "preview": "https://track19.vercel.app/",
       "last": "ted2xmen/covid-19-tracker",
-      "repository": "",
+      "repository": "https://github.com/Ted2xmen/covid-19-tracker",
       "tech": "Vue 3, Bootstrap",
-      "description": "An Alternative for Developers"
+      "description": ""
     },
     {
-      "name": "Personal Blog",
-      "preview": "https://twitter.com/tugrulerdemd",
-      "last": "ted2xmen/covid-19-tracker",
-      "repository": "",
-      "tech": "Next JS, TailwindCSS",
-      "description": "An Alternative for Developers"
+      "name": "Budget Planner ",
+      "preview": "https://ted-budget-app.netlify.app/",
+      "repository": "https://github.com/Ted2xmen/react-budget-planner",
+      "last": "Ted2xmen/react-reduxtk-tailwind-starter",
+      "tech": "React",
+      "description": "My first react app"
     }
   ]
 }
