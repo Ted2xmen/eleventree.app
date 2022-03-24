@@ -2,6 +2,8 @@
   "name": "eleventree",
   "version": "1.0.0",
   "description": "Linktree Alternative",
+  "author": "Ted2xmen",
+  "license": "MIT",
   "scripts": {
     "start": "npm-run-all -p dev:*",
     "build": "npx @11ty/eleventy && tailwindcss -i _site/css/styles.sass -o dist/css/styles.css",
@@ -10,11 +12,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ted2xmen/eleventree-for-developers.git"
+    "url": "git+https://github.com/Ted2xmen/eleventree.git"
   },
-  "author": "Ted2xmen",
-  "license": "MIT",
-  "homepage": "https://github.com/Ted2xmen/eleventree-for-developers",
+  "homepage": "https://github.com/Ted2xmen/eleventree",
   "devDependencies": {
     "@11ty/eleventy": "^1.0.0",
     "autoprefixer": "^10.4.0",

@@ -4,10 +4,10 @@
   "description": "Linktree Alternative - build with Eleventy and TailwindCSS",
   "image": "https://www.11ty.dev/img/built/IdthKOzqFA-350.avif",
   "card": "image.gif",
-  "url": "www.eleventree.com",
+  "url": "https://eleventree.netlify.app/",
   "twitter": "https://twitter.com/Ted2xmen",
-  "ua": "",
-  "repository": "https://github.com/Ted2xmen",
+  "ua": "G-BSHFXNTVPB",
+  "repository": "https://github.com/Ted2xmen/eleventree",
 
   "personal": [
     {
