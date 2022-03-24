@@ -12,6 +12,7 @@ order: 1
 </h2>
 	{% include "headerCard.njk" %}
 	{% include "linkRow.njk" %}
+	{% include "homelinks.njk" %}
 <strong class="p-2 m-2 text-gray-400 h-full rounded-lg block border border-green-700"> 
 	{% include "navigation.njk" %}
 </strong>	
