@@ -15,6 +15,5 @@ order: 1
 <strong class="p-2 m-2 text-gray-400 h-full rounded-lg block border border-green-700"> 
 	{% include "navigation.njk" %}
 </strong>	
-<div>{% include "homelinks.njk" %}</div>
 
 
