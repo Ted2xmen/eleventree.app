@@ -13,6 +13,7 @@ order: 1
 	{% include "headerCard.njk" %}
 	{% include "linkRow.njk" %}
 	<!-- ss -->
+    <div class="grid grid-rows-1 sm:grid-rows-1 md:grid-rows-1 lg:grid-rows-1">
 <ul>{% for item in links.homelinks  %}
     <li class="list-none p-1">
         <a href="{{item.url}}"
@@ -28,6 +29,7 @@ order: 1
         </a>
     </li> {% endfor %}
 </ul>
+</div>
 	<!-- ss -->
 <strong class="p-2 m-2 text-gray-400 h-full rounded-lg block border border-green-700"> 
 	{% include "navigation.njk" %}
