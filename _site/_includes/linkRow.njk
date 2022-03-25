@@ -1,9 +1,9 @@
-<div class="grid py-2 grid-flow-col items-center justify-center">{% for item in social.social  %}
-    <div class="p-6">
+<div class="grid grid-flow-col custom-gap-for-links custom-py-for-all items-center justify-center">{% for item in social.social  %}
+    <div>
         <a href="{{item.url}}"
             target="_blank"
             rel="noopener noreferrer"
-            class=" no-underline   border-gray-700 rounded-lg hover:border-green-600">           
+            class="no-underline border-gray-700 rounded-lg hover:border-green-600">           
                 <i class="text-3xl text-gray-400 hover:text-green-600 fa-brands {{item.icon}}"></i>
         </a>
     </div> {% endfor %}

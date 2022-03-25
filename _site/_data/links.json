@@ -24,6 +24,7 @@
       "icon": "fa-glasses",
       "description": "Vue cli ile oluşturduğunuz projeler npm run serve komutu ile ..."
     },
+    
     {
       "name": "Webpack 5 Crash Course | Frontend Development Setup",
       "url": "https://youtu.be/IZGNcSuwBZs",

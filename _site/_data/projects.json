@@ -2,7 +2,7 @@
   "projects": [
     {
       "name": "Eleventree",
-      "preview": "https://twitter.com/tugrulerdemd",
+      "preview": "https://eleventree.netlify.app/",
       "repository": "https://github.com/Ted2xmen/eleventyree",
       "last": "ted2xmen/eleventyree",
       "tech": "Eleventy, TailwindCSS",
