@@ -9,14 +9,6 @@
       "description": "Redux TK öğrenirken aldığım notlar"
     },
     {
-      "name": "Hyper UI",
-      "url": "https://twitter.com/tugrulerdemd",
-      "category": "bookmark",
-      "tag": "React, Firebase",
-      "icon": "fa-bookmark",
-      "description": "Free Open Source Tailwind CSS Components"
-    },
-    {
       "name": "Vue 3 CLI Projelerinde Port Adresi Değiştirme",
       "url": "https://medium.com/@ted2xmen/vue-3-cli-projelerinde-port-adresi-de%C4%9Fi%C5%9Ftirme-71e287989b15",
       "category": "blog",
@@ -24,14 +16,21 @@
       "icon": "fa-glasses",
       "description": "Vue cli ile oluşturduğunuz projeler npm run serve komutu ile ..."
     },
-    
     {
-      "name": "Webpack 5 Crash Course | Frontend Development Setup",
-      "url": "https://youtu.be/IZGNcSuwBZs",
-      "category": "video",
-      "tag": "Webpack, Brad Traversy",
+      "name": "Çektiğim Fotoğraflar",
+      "url": "https://medium.com/@ted2xmen/vue-3-cli-projelerinde-port-adresi-de%C4%9Fi%C5%9Ftirme-71e287989b15",
+      "category": "gallery",
+      "tag": "albums",
       "icon": "fa-glasses",
-      "description": "In this video, we will create a Webpack dev environment from scratch including..."
+      "description": "#35mm, analog photography"
+    },
+    {
+      "name": "Create App",
+      "url": "https://createapp.dev/",
+      "category": "tool",
+      "tag": "webpack, parcel, snowpack",
+      "icon": "fa-glasses",
+      "description": "Frontend build config generator"
     }
   ]
 }
