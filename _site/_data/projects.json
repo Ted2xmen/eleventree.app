@@ -1,6 +1,14 @@
 {
   "projects": [
     {
+      "name": "Online Haçlı Kaynakları",
+      "preview": "https://online-hacli-kaynaklari.netlify.app/",
+      "repository": "https://github.com/Ted2xmen/online-hacli-kaynaklari",
+      "last": "ted2xmen/online-hacli-kaynaklari",
+      "tech": "React, TailwindCSS",
+      "description": "Haçlı çalışmaları alanındaki birincil kaynaklara hızlı ulaşımı amaç edinmiş bağımsız bir projedir."
+    },
+    {
       "name": "Eleventree",
       "preview": "https://eleventree.netlify.app/",
       "repository": "https://github.com/Ted2xmen/eleventree",
@@ -15,6 +23,14 @@
       "last": "Ted2xmen/react-reduxtk-tailwind-starter",
       "tech": "React, Redux Toolkit, TailwindCSS",
       "description": "React Starter for me"
+    },
+    {
+      "name": "Pure Notes",
+      "preview": "https://ted2xmen.github.io/pure-notes/",
+      "repository": "https://github.com/Ted2xmen/pure-notes",
+      "last": "ted2xmen/pure-notes",
+      "tech": "Javascript",
+      "description": ""
     },
     {
       "name": "Kütüphaneden",
