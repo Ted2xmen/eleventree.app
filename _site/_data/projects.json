@@ -17,12 +17,28 @@
       "description": "Bookmark Gallery and Portfolio. An Alternative for Developers"
     },
     {
-      "name": "React - Redux TK - Tailwind Starter",
-      "preview": "",
-      "repository": "https://github.com/Ted2xmen/react-reduxtk-tailwind-starter",
-      "last": "Ted2xmen/react-reduxtk-tailwind-starter",
-      "tech": "React, Redux Toolkit, TailwindCSS",
-      "description": "React Starter for me"
+      "name": "Ghibli Catalog",
+      "preview": "https://quiet-sable-ff6a21.netlify.app/",
+      "repository": "https://github.com/Ted2xmen/react-zustand-materialui",
+      "last": "ted2xmen/react-zustand-materialui",
+      "tech": "React, Material UI, Zustand, FramerMotion",
+      "description": "Ghibli API"
+    },
+    {
+      "name": "React Movie App",
+      "repository": "https://github.com/Ted2xmen/react-movie-app",
+      "preview": "https://react-movie-app-roan.vercel.app/",
+      "last": "ted2xmen/react-movie-app",
+      "tech": "React, RouterV6, TailwindCSS",
+      "description": "TMDB API"
+    },
+    {
+      "name": "React Gym Rat",
+      "preview": "https://gym-rat.vercel.app/",
+      "repository": "https://github.com/Ted2xmen/gym-rat",
+      "last": "ted2xmen/gym-rat",
+      "tech": "React, TailwindCSS",
+      "description": "ExerciseDB API"
     },
     {
       "name": "Pure Notes",
@@ -30,6 +46,14 @@
       "repository": "https://github.com/Ted2xmen/pure-notes",
       "last": "ted2xmen/pure-notes",
       "tech": "Javascript",
+      "description": ""
+    },
+    {
+      "name": "Budget Planner",
+      "preview": "https://ted-budget-app.netlify.app/",
+      "repository": "https://github.com/Ted2xmen/react-budget-planner",
+      "last": "Ted2xmen/react-budget-planner",
+      "tech": "React",
       "description": ""
     },
     {
@@ -63,14 +87,6 @@
       "repository": "https://github.com/Ted2xmen/covid-19-tracker",
       "tech": "Vue 3, Bootstrap",
       "description": ""
-    },
-    {
-      "name": "Budget Planner",
-      "preview": "https://ted-budget-app.netlify.app/",
-      "repository": "https://github.com/Ted2xmen/react-budget-planner",
-      "last": "Ted2xmen/react-reduxtk-tailwind-starter",
-      "tech": "React",
-      "description": "My first react app"
     }
   ]
 }

@@ -4,7 +4,8 @@
         <div
             class="block no-underline h-full p-4 border custom-border-w-hover">
             <h4 class="custom-link-title">
-                <i class="fa-solid fa-code mr-2 text-lg text-green-500"></i>{{item.name}} 
+                <i class="fa-solid fa-code mr-2 text-lg text-green-500"></i>
+            <a href="{{item.repository}}" target="_blank" rel="noopener noreferrer"> {{item.name}} </a>
             </h4>
             <p class="mt-1 custom-description">{{item.description}}
             <img class="mt-4" alt="GitHub last commit" src="https://img.shields.io/github/last-commit/{{item.last}}"> </p>
